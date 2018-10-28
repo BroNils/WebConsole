@@ -12,6 +12,7 @@ Example config: (for http://example.com:80/tes/mc)<br>
 domain: http://example.com #Set your webconsole listen domain
 port: 80 #Set your webconsole port listen
 path: 'tes/mc' #Set yor webconsole path (Based on WebConsole Setup)
+isSecure: false #Change this value true if you are using https://example.com
 version: 1.0 #No change required
 ```
 

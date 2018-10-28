@@ -1,0 +1,5 @@
+main: com.tes.Main
+name: WebConsole
+version: 1.0
+author: GoogleX
+description: Control your server through web

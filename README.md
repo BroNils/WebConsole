@@ -19,7 +19,7 @@ version: 1.0 #No change required
 * Download webconsole.zip
 * Upload to your website path (this will be your path config)
 * Edit config at config/config.php (Change anything based on your server)
-* Done
+* All done! Start your server and test it.
 
 ## Preview
 ![preview](https://image.prntscr.com/image/f2nAI6VtQES5WzuXHG-aDA.png)

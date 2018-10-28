@@ -22,7 +22,7 @@ version: 1.0 #No change required
 * Done
 
 ## Preview
-
+![preview](https://image.prntscr.com/image/f2nAI6VtQES5WzuXHG-aDA.png)
 
 ## Useful links
 * Contact Person | https://www.fb.me/m.rakha.f
